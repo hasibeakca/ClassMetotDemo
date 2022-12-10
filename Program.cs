@@ -25,7 +25,7 @@ namespace ClassMetotDemo
            
             musteriManager.MusteriSilme(musteri1);
             Console.WriteLine("**************************");
-            // Aynı işlemler bir baika müşteri için yapıldı..
+            // Aynı işlemler bir başka müşteri için yapıldı..
             Musteri musteri2 = new Musteri();
             musteri2.Adi = "FURKAN";
             musteri2.Soyadi = "AKCA";
